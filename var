@@ -1,3 +1,6 @@
 
 var word
+word = 'bird'
 
+var word = 'bird'
+console.log(word)
